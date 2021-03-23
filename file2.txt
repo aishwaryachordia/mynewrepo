@@ -1,1 +1,1 @@
-This is file
+This is file2. Adding contents in file2
